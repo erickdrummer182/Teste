@@ -1,5 +1,6 @@
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Versão 1: Olá, mundo!");
+        System.out.println("Versão 2: Melhorando o código");
     }
 }
